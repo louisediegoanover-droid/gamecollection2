@@ -1,0 +1,25 @@
+# Query: width: 100vw;
+# ContextLines: 1
+
+5 results - 1 file
+
+resources\views\landing.blade.php:
+   22      left: 0;
+   23:     width: 100;
+   24      height: 70px;
+
+  167      left: 0;
+  168:     width: 100vw;
+  169      height: 100vh;
+
+  253      overflow: hidden;
+  254:     width: 100vw;
+  255      margin-left: calc(-50vw + 50%);
+
+  487      left: 0;
+  488:     width: 100vw;
+  489      height: 100vh;
+
+  632      overflow: hidden;
+  633:     width: 100vw;      
+  634      margin-left: calc(-50vw + 50%); 
